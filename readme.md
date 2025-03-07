@@ -6,6 +6,8 @@
 
     - In JavaScript, **scope** determines the accessibility of variables, functions, and objects in different parts of the code. There are three main types of scope:
 
+    ***
+
     1. **Global Scope** – Variables declared outside any function are accessible anywhere in the script.
     2. **Function Scope** – Variables declared inside a function are accessible only within that function.
     3. **Block Scope** (introduced with `let` and `const`) – Variables declared inside `{}` (like loops or `if` blocks) are only accessible within that block.
@@ -27,6 +29,8 @@
 3.  Explain context in JavaScript?
 
     - In JavaScript, **context** refers to the **environment** in which a function is executed. It determines the value of `this` inside the function.
+
+    ***
 
     1. **Global Context** – `this` refers to the global object in the browser (window in Node.js).
     2. **Execution Context** – `this` refers to the **current** object in which the function is executed.
@@ -101,7 +105,6 @@
     - not defined -> value of a variable that is not initialized, or the value of a variable that is declared but not assigned a value.
 
 10. Explain spread and rest operator?
-
 
     - spread operator -> allows an iterable to be expanded in places where zero or more arguments are expected.
 
