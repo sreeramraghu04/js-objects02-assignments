@@ -6,6 +6,7 @@
 
     - In JavaScript, **scope** determines the accessibility of variables, functions, and objects in different parts of the code. There are three main types of scope:
 
+
     1. **Global Scope** – Variables declared outside any function are accessible anywhere in the script.
     2. **Function Scope** – Variables declared inside a function are accessible only within that function.
     3. **Block Scope** (introduced with `let` and `const`) – Variables declared inside `{}` (like loops or `if` blocks) are only accessible within that block.
