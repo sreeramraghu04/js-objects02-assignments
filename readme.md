@@ -1,6 +1,6 @@
 # JavaScript
 
-## Objects-02 Assignment
+## Objects-02 Assignments
 
 1.  Explain the scope in JavaScript?
 
